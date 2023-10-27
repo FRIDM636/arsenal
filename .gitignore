@@ -1,0 +1,14 @@
+*.py[co]
+/.project
+/.pydevproject
+__pycache__
+/.venv/
+/.coverage
+/htmlcov/
+*.egg-info/
+.idea/
+*.obsidian/
+build/
+dist/
+Pipfile.lock
+Pipfile

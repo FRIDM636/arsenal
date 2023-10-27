@@ -1,0 +1,4 @@
+graft arsenal
+include LICENSE
+include README.md
+global-exclude *.py[co]
